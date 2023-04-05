@@ -85,20 +85,6 @@
             ]
         },
         {
-            "id": "2693648",
-            "channel": "HD FILM HITS",
-            "link": "https://list.iptvcat.com/my_list/s/7c5fda3900258b4adee1983ad796379d.m3u8",
-            "country": "europe",
-            "liveliness": "15",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "hd",
-            "mbps": "3188",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
             "id": "2693642",
             "channel": "HD KLAN PLUS",
             "link": "https://list.iptvcat.com/my_list/s/a0b9f37a0d2d934b6a9f211ae9d9ccfe.m3u8",
@@ -164,20 +150,6 @@
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2693659",
-            "channel": "HD Tring Fantasy",
-            "link": "https://list.iptvcat.com/my_list/s/30ba5592434d5eb29800bb4ceebaca52.m3u8",
-            "country": "europe",
-            "liveliness": "13",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
             "URI": [
                 "europe__5"
             ]
@@ -1401,43 +1373,29 @@
             ]
         },
         {
-            "id": "2690672",
-            "channel": "HD MTV TEEN MOM",
-            "link": "https://list.iptvcat.com/my_list/s/567979273370d7955ad80275c52ebc7d.m3u8",
+            "id": "2472346",
+            "channel": "VRT Radio 1",
+            "link": "https://list.iptvcat.com/my_list/s/0c209a933267a2fded8774b29ce2013c.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "97",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3799",
+            "format": "sd",
+            "mbps": "652",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2690693",
-            "channel": "HD MUTANTE X",
-            "link": "https://list.iptvcat.com/my_list/s/840e5328cab8505cbb34a29327fa4e30.m3u8",
+            "id": "2472339",
+            "channel": "VRT Radio 2",
+            "link": "https://list.iptvcat.com/my_list/s/a03dc89c41efd011f91d8d373f6fd258.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "97",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3799",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2691212",
-            "channel": "HD NAT GEO",
-            "link": "https://list.iptvcat.com/my_list/s/da0f6ecfc06fb808c19b0635d5f25f1d.m3u8",
-            "country": "europe",
-            "liveliness": "81",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
+            "format": "sd",
+            "mbps": "652",
             "URI": [
                 "europe__5"
             ]
@@ -2801,43 +2759,43 @@
             ]
         },
         {
-            "id": "2690858",
-            "channel": "4K XTRM",
-            "link": "https://list.iptvcat.com/my_list/s/e817eb21c1d36ae819b42928bedf67ae.m3u8",
+            "id": "2691203",
+            "channel": "M+ LIGA DE CAMPEONES HD",
+            "link": "https://list.iptvcat.com/my_list/s/b016b4094aa68b28a423f346c8ae578a.m3u8",
             "country": "europe",
-            "liveliness": "90",
+            "liveliness": "93",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2670716",
-            "channel": "7 Noticias (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/2a548036a1280b413908dafb5a4b3fad.m3u8",
-            "country": "europe",
-            "liveliness": "90",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
             "format": "hd",
-            "mbps": "11126, ...",
+            "mbps": "5020",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2266477",
-            "channel": "7 Noticias (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/a578b9ebe33aa0edc3388c2546af316d.m3u8",
+            "id": "2691202",
+            "channel": "M+ LIGA DE CAMPEONES SD",
+            "link": "https://list.iptvcat.com/my_list/s/28e9994f08376500a8c468c78262e31b.m3u8",
+            "country": "europe",
+            "liveliness": "93",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "sd",
+            "mbps": "3262",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2688792",
+            "channel": "M. DAZN F1 FHD",
+            "link": "https://list.iptvcat.com/my_list/s/c4273570d950d210533b9cbe0aac27d7.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "7004, ...",
+            "format": "fhd 2k",
+            "mbps": "13873",
             "URI": [
                 "europe__5"
             ]
@@ -6095,7 +6053,7 @@
             "channel": "HD INERALMERIA TV",
             "link": "https://list.iptvcat.com/my_list/s/0a8beb2ec5570b4d4ed7609576067e68.m3u8",
             "country": "europe",
-            "liveliness": "68",
+            "liveliness": "65",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "fhd 2k",
@@ -7001,39 +6959,39 @@
             ]
         },
         {
-            "id": "2690451",
-            "channel": "Onda 15 TV",
-            "link": "https://list.iptvcat.com/my_list/s/a265d7ccb2b0fcd5ac8c252db6eaee2a.m3u8",
+            "id": "2690672",
+            "channel": "HD MTV TEEN MOM",
+            "link": "https://list.iptvcat.com/my_list/s/567979273370d7955ad80275c52ebc7d.m3u8",
             "country": "europe",
-            "liveliness": "64",
-            "status": "online",
-            "lastChecked": "2023-04-03T00:00:00Z",
-            "format": "sd",
-            "mbps": "542",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2689600",
-            "channel": "Onda Cadiz SD",
-            "link": "https://list.iptvcat.com/my_list/s/1b4390c261e814ac39217bae2b483645.m3u8",
-            "country": "europe",
-            "liveliness": "93",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "3188",
+            "mbps": "3799",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2690850",
-            "channel": "Onda Digital Perú",
-            "link": "https://list.iptvcat.com/my_list/s/0f6529445b53a191b8ecf673a7a8354d.m3u8",
+            "id": "2690693",
+            "channel": "HD MUTANTE X",
+            "link": "https://list.iptvcat.com/my_list/s/840e5328cab8505cbb34a29327fa4e30.m3u8",
             "country": "europe",
-            "liveliness": "96",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "3799",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2691212",
+            "channel": "HD NAT GEO",
+            "link": "https://list.iptvcat.com/my_list/s/da0f6ecfc06fb808c19b0635d5f25f1d.m3u8",
+            "country": "europe",
+            "liveliness": "81",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
@@ -8401,57 +8359,43 @@
             ]
         },
         {
-            "id": "2677972",
-            "channel": "Kunskapskanalen FHD",
-            "link": "https://list.iptvcat.com/my_list/s/7f7b9eff314c39831e3060ed75376966.m3u8",
+            "id": "2691002",
+            "channel": "SD M+ LIGA DE CAMPEONES 4",
+            "link": "https://list.iptvcat.com/my_list/s/286c17c4ad618533da2d3539d944e515.m3u8",
             "country": "europe",
-            "liveliness": "97",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "6241",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2677900",
-            "channel": "MTV",
-            "link": "https://list.iptvcat.com/my_list/s/c071b3e67e8b6532780fc4a7db6cddd7.m3u8",
-            "country": "europe",
-            "liveliness": "91",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2266223",
-            "channel": "Miracle Channel (360p)",
-            "link": "https://list.iptvcat.com/my_list/s/c9f006628da5beb9a66191ded50e27e7.m3u8",
-            "country": "europe",
-            "liveliness": "99",
+            "liveliness": "93",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "790",
+            "mbps": "3262",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2266222",
-            "channel": "Miracle Channel (576p)",
-            "link": "https://list.iptvcat.com/my_list/s/1c01a908496928f8f0cb74f1418522d0.m3u8",
+            "id": "2691008",
+            "channel": "SD M+ LIGA DE CAMPEONES 5",
+            "link": "https://list.iptvcat.com/my_list/s/d53da208e48d93ccf7aa763b24040c6c.m3u8",
             "country": "europe",
-            "liveliness": "99",
+            "liveliness": "93",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "1810",
+            "mbps": "1357",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2691015",
+            "channel": "SD M+ LIGA DE CAMPEONES 6",
+            "link": "https://list.iptvcat.com/my_list/s/63f1b74a66edfc9a2a14cf97e65a8550.m3u8",
+            "country": "europe",
+            "liveliness": "93",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "sd",
+            "mbps": "1357",
             "URI": [
                 "europe__5"
             ]
@@ -9801,25 +9745,11 @@
             ]
         },
         {
-            "id": "24807",
-            "channel": "QVC",
-            "link": "https://list.iptvcat.com/my_list/s/504442f1e0a2d1311afdcd2a864b3b7f.m3u8",
+            "id": "2695262",
+            "channel": "BeIN Sports 4 HD",
+            "link": "https://list.iptvcat.com/my_list/s/3a8eb59264fff5447791905a9e3098b7.m3u8",
             "country": "europe",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "1853",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2596163",
-            "channel": "Quest Red",
-            "link": "https://list.iptvcat.com/my_list/s/14a5d38ffdf40d9653cc1183c23f99f6.m3u8",
-            "country": "europe",
-            "liveliness": "100",
+            "liveliness": "50",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
@@ -9829,11 +9759,11 @@
             ]
         },
         {
-            "id": "2596167",
-            "channel": "RTE 2",
-            "link": "https://list.iptvcat.com/my_list/s/e7aad7d4b232e461f272cda827fba279.m3u8",
+            "id": "2695264",
+            "channel": "BeIN Sports Max 1 HD",
+            "link": "https://list.iptvcat.com/my_list/s/39767a30f500f93d7bb4e3a079e9b04b.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "30",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
@@ -9843,29 +9773,29 @@
             ]
         },
         {
-            "id": "2596168",
-            "channel": "RTE Jr",
-            "link": "https://list.iptvcat.com/my_list/s/15ee4dc554a093fc1fb193fb2df2bec8.m3u8",
+            "id": "520655",
+            "channel": "Berat TV",
+            "link": "https://list.iptvcat.com/my_list/s/e7862d2eb7d7e186cb378a3c52ddfe49.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "hd",
+            "mbps": "3625",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2596169",
-            "channel": "RTE News",
-            "link": "https://list.iptvcat.com/my_list/s/19811d4fda424b7687358cbf541e1af1.m3u8",
+            "id": "694005",
+            "channel": "Berat TV",
+            "link": "https://list.iptvcat.com/my_list/s/44ae8e950f4616546db49997eea573d9.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "hd",
+            "mbps": "3625",
             "URI": [
                 "europe__5"
             ]
@@ -11201,9 +11131,23 @@
             ]
         },
         {
-            "id": "2589704",
-            "channel": "TV 1 (Литва)",
-            "link": "https://list.iptvcat.com/my_list/s/5738dc493dd0fc7a79119641a0ce37a2.m3u8",
+            "id": "2346686",
+            "channel": "Amedia Premium",
+            "link": "https://list.iptvcat.com/my_list/s/29e55dfc14f75b1e468a7ea21130b97f.m3u8",
+            "country": "europe",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "3188",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2589796",
+            "channel": "Amedia Premium HD",
+            "link": "https://list.iptvcat.com/my_list/s/556a0bfc347e17608afc0730139ba979.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -11215,57 +11159,43 @@
             ]
         },
         {
-            "id": "2653179",
-            "channel": "TV 1000 Action",
-            "link": "https://list.iptvcat.com/my_list/s/cfa166859351618d29eba0439258b896.m3u8",
+            "id": "2653135",
+            "channel": "Amedia Premium HD",
+            "link": "https://list.iptvcat.com/my_list/s/4797a1621a19e4dc5f66969198a40473.m3u8",
             "country": "europe",
-            "liveliness": "99",
+            "liveliness": "73",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2653180",
-            "channel": "TV 1000 Action",
-            "link": "https://list.iptvcat.com/my_list/s/08a3d839d2047c2ced4f4cf11203be32.m3u8",
-            "country": "europe",
-            "liveliness": "71",
-            "status": "online",
-            "lastChecked": "2023-04-03T00:00:00Z",
-            "format": "sd",
-            "mbps": "1237",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2653181",
-            "channel": "TV 1000 Action HD",
-            "link": "https://list.iptvcat.com/my_list/s/7803f06392fce03c9ee824a240e49450.m3u8",
+            "id": "2589893",
+            "channel": "Ani",
+            "link": "https://list.iptvcat.com/my_list/s/b55f719704f7c9bb1af75821c4d22a3f.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "11126",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2653182",
-            "channel": "TV 1000 Русское кино",
-            "link": "https://list.iptvcat.com/my_list/s/c0a96d2d879b4f23b62ec249d9609544.m3u8",
+            "id": "2589720",
+            "channel": "Animal Planet HD",
+            "link": "https://list.iptvcat.com/my_list/s/660ef88ae3bf1a27968d698cbcff5442.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
@@ -12601,23 +12531,37 @@
             ]
         },
         {
-            "id": "2653336",
-            "channel": "О!",
-            "link": "https://list.iptvcat.com/my_list/s/019cb4a1e901170b4fe73bea69f891e3.m3u8",
+            "id": "39388",
+            "channel": "Вместе РФ",
+            "link": "https://list.iptvcat.com/my_list/s/33b6f475d12ff3afacc805195275f74c.m3u8",
             "country": "europe",
-            "liveliness": "70",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "989",
+            "format": "fhd 2k",
+            "mbps": "11126",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2589660",
-            "channel": "ОЦЕ HD",
-            "link": "https://list.iptvcat.com/my_list/s/ab0d8f16f15b54d50f55297c97710d69.m3u8",
+            "id": "2653706",
+            "channel": "Волга",
+            "link": "https://list.iptvcat.com/my_list/s/870c901cd3afacc2247062f8ff6dfd60.m3u8",
+            "country": "europe",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "sd",
+            "mbps": "3262",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2653707",
+            "channel": "Волга (HD)",
+            "link": "https://list.iptvcat.com/my_list/s/e189efe9641ed59aa7e4c19b80219cad.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -12629,43 +12573,29 @@
             ]
         },
         {
-            "id": "2653784",
-            "channel": "Обком ТВ",
-            "link": "https://list.iptvcat.com/my_list/s/b2549206c6ee7a3a5ccbfc315d69639e.m3u8",
+            "id": "2653717",
+            "channel": "Волга 24",
+            "link": "https://list.iptvcat.com/my_list/s/c274a1ea58c5379928380ef431f88090.m3u8",
             "country": "europe",
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2653340",
-            "channel": "Оплот",
-            "link": "https://list.iptvcat.com/my_list/s/219ea6c74e2c28678556377e61965a8e.m3u8",
-            "country": "europe",
-            "liveliness": "92",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "6241",
+            "mbps": "9905",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2653786",
-            "channel": "Осетия-Ирыстон",
-            "link": "https://list.iptvcat.com/my_list/s/aa715c7250568bcce4fb2694cccbb887.m3u8",
+            "id": "2589644",
+            "channel": "Вопросы и ответы",
+            "link": "https://list.iptvcat.com/my_list/s/b57d99544ce96c4d965bd2939dca261c.m3u8",
             "country": "europe",
-            "liveliness": "97",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "11126",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
@@ -14001,71 +13931,71 @@
             ]
         },
         {
-            "id": "2589765",
-            "channel": "Фауна",
-            "link": "https://list.iptvcat.com/my_list/s/b6eff225078987d8f202adb2d6a402c8.m3u8",
+            "id": "2653514",
+            "channel": "Рыбалка и охота",
+            "link": "https://list.iptvcat.com/my_list/s/184f78a09feb156afa556b1546194331.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "72",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "sd",
+            "mbps": "1237",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2653611",
-            "channel": "Хабар",
-            "link": "https://list.iptvcat.com/my_list/s/058f20d0dd082700c9e615e6bf581962.m3u8",
+            "id": "2659199",
+            "channel": "Рыбалка и охота",
+            "link": "https://list.iptvcat.com/my_list/s/01bb9260c4a0558d06bab6a3c7a2df13.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "73",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
+            "format": "sd",
+            "mbps": "1237",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2653612",
-            "channel": "Хабар 24 HD",
-            "link": "https://list.iptvcat.com/my_list/s/efadbfbb27b73f6de3b40fbe58a5031c.m3u8",
+            "id": "2653876",
+            "channel": "СГДФ 24",
+            "link": "https://list.iptvcat.com/my_list/s/bbbeb2ad4d1a1d20a9d4f95aa321c365.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "88",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "13873",
+            "mbps": "7986",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2589836",
-            "channel": "Хит HD",
-            "link": "https://list.iptvcat.com/my_list/s/8873732e238b06e00bad8d84714d9546.m3u8",
+            "id": "2653878",
+            "channel": "СИ ТВ (Новый Уренгой)",
+            "link": "https://list.iptvcat.com/my_list/s/b0079ec416a5c42f2f7e87283574a503.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "89",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "sd",
+            "mbps": "3262",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2653991",
-            "channel": "Центр Красноярск HD",
-            "link": "https://list.iptvcat.com/my_list/s/25d6a593339db0353bfd3b5f97153de0.m3u8",
+            "id": "2653880",
+            "channel": "СИ ТВ HD",
+            "link": "https://list.iptvcat.com/my_list/s/71c83d5f7ef836c765f659cea09a40b4.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "86",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "7004",
+            "mbps": "11126",
             "URI": [
                 "europe__5"
             ]
@@ -14334,48 +14264,6 @@
             "mbps": "3188",
             "URI": [
                 "europe__5"
-            ]
-        },
-        {
-            "id": "2691203",
-            "channel": "M+ LIGA DE CAMPEONES HD",
-            "link": "https://list.iptvcat.com/my_list/s/b016b4094aa68b28a423f346c8ae578a.m3u8",
-            "country": "europe",
-            "liveliness": "93",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
-            "URI": [
-                "europe"
-            ]
-        },
-        {
-            "id": "2691202",
-            "channel": "M+ LIGA DE CAMPEONES SD",
-            "link": "https://list.iptvcat.com/my_list/s/28e9994f08376500a8c468c78262e31b.m3u8",
-            "country": "europe",
-            "liveliness": "93",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3262",
-            "URI": [
-                "europe"
-            ]
-        },
-        {
-            "id": "2688792",
-            "channel": "M. DAZN F1 FHD",
-            "link": "https://list.iptvcat.com/my_list/s/c4273570d950d210533b9cbe0aac27d7.m3u8",
-            "country": "europe",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13873",
-            "URI": [
-                "europe"
             ]
         },
         {
@@ -15737,59 +15625,45 @@
             ]
         },
         {
-            "id": "2695262",
-            "channel": "BeIN Sports 4 HD",
-            "link": "https://list.iptvcat.com/my_list/s/3a8eb59264fff5447791905a9e3098b7.m3u8",
+            "id": "2690451",
+            "channel": "Onda 15 TV",
+            "link": "https://list.iptvcat.com/my_list/s/a265d7ccb2b0fcd5ac8c252db6eaee2a.m3u8",
             "country": "europe",
-            "liveliness": "50",
+            "liveliness": "64",
             "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "lastChecked": "2023-04-03T00:00:00Z",
+            "format": "sd",
+            "mbps": "542",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
-            "id": "2695264",
-            "channel": "BeIN Sports Max 1 HD",
-            "link": "https://list.iptvcat.com/my_list/s/39767a30f500f93d7bb4e3a079e9b04b.m3u8",
+            "id": "2689600",
+            "channel": "Onda Cadiz SD",
+            "link": "https://list.iptvcat.com/my_list/s/1b4390c261e814ac39217bae2b483645.m3u8",
             "country": "europe",
-            "liveliness": "30",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "520655",
-            "channel": "Berat TV",
-            "link": "https://list.iptvcat.com/my_list/s/e7862d2eb7d7e186cb378a3c52ddfe49.m3u8",
-            "country": "europe",
-            "liveliness": "98",
+            "liveliness": "93",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "3625",
+            "mbps": "3188",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
-            "id": "694005",
-            "channel": "Berat TV",
-            "link": "https://list.iptvcat.com/my_list/s/44ae8e950f4616546db49997eea573d9.m3u8",
+            "id": "2690850",
+            "channel": "Onda Digital Perú",
+            "link": "https://list.iptvcat.com/my_list/s/0f6529445b53a191b8ecf673a7a8354d.m3u8",
             "country": "europe",
-            "liveliness": "98",
+            "liveliness": "96",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "3625",
+            "mbps": "5020",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -17137,59 +17011,59 @@
             ]
         },
         {
-            "id": "2596954",
-            "channel": "Teledeporte",
-            "link": "https://list.iptvcat.com/my_list/s/a9f6791eb20efa6fc51c023b14ae3017.m3u8",
+            "id": "2022078",
+            "channel": "MAGIC TV",
+            "link": "https://list.iptvcat.com/my_list/s/a098bde78f89807a8e42efef80811b02.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "sd",
+            "mbps": "1357",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
-            "id": "2688821",
-            "channel": "Teledeporte FHD",
-            "link": "https://list.iptvcat.com/my_list/s/3827316616af7be575befc3f87192f83.m3u8",
+            "id": "2022250",
+            "channel": "MBC 2, MBC Masr 2",
+            "link": "https://list.iptvcat.com/my_list/s/83decbfb9496eb9ed43dd17370b041c1.m3u8",
             "country": "europe",
-            "liveliness": "83",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
             "mbps": "5020",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
-            "id": "2687968",
-            "channel": "Teledeporte SD",
-            "link": "https://list.iptvcat.com/my_list/s/353d167eae4e20894866a4c34065bc2a.m3u8",
-            "country": "europe",
-            "liveliness": "71",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
-            "URI": [
-                "europe"
-            ]
-        },
-        {
-            "id": "2596955",
-            "channel": "Telemadrid",
-            "link": "https://list.iptvcat.com/my_list/s/9b252e8786aa8247950b06b04cd880f7.m3u8",
+            "id": "2022252",
+            "channel": "MBC 3",
+            "link": "https://list.iptvcat.com/my_list/s/12c6286c7940929cf05df2bfbd813ad8.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
-                "europe"
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2022256",
+            "channel": "MBC 5",
+            "link": "https://list.iptvcat.com/my_list/s/2fe68b2d04a37c59dc1384ca082b2339.m3u8",
+            "country": "europe",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "5020",
+            "URI": [
+                "europe__5"
             ]
         },
         {
@@ -18205,7 +18079,7 @@
             "channel": "HD Nick Jr",
             "link": "https://list.iptvcat.com/my_list/s/4c36d037378c47b262ad650fd23d9613.m3u8",
             "country": "europe",
-            "liveliness": "42",
+            "liveliness": "40",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "sd",
@@ -18537,59 +18411,59 @@
             ]
         },
         {
-            "id": "2690082",
-            "channel": "HD GOLD",
-            "link": "https://list.iptvcat.com/my_list/s/774517701524a4e9cd6fef73d44e7f76.m3u8",
+            "id": "2677972",
+            "channel": "Kunskapskanalen FHD",
+            "link": "https://list.iptvcat.com/my_list/s/7f7b9eff314c39831e3060ed75376966.m3u8",
             "country": "europe",
-            "liveliness": "83",
+            "liveliness": "97",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "6241",
+            "URI": [
+                "europe"
+            ]
+        },
+        {
+            "id": "2677900",
+            "channel": "MTV",
+            "link": "https://list.iptvcat.com/my_list/s/c071b3e67e8b6532780fc4a7db6cddd7.m3u8",
+            "country": "europe",
+            "liveliness": "91",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "3795",
+            "URI": [
+                "europe"
+            ]
+        },
+        {
+            "id": "2266223",
+            "channel": "Miracle Channel (360p)",
+            "link": "https://list.iptvcat.com/my_list/s/c9f006628da5beb9a66191ded50e27e7.m3u8",
+            "country": "europe",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "1509",
+            "mbps": "790",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
-            "id": "2690222",
-            "channel": "HD GOOD FOOD",
-            "link": "https://list.iptvcat.com/my_list/s/82dc466ee70fbff0d13ba0d53208e67a.m3u8",
+            "id": "2266222",
+            "channel": "Miracle Channel (576p)",
+            "link": "https://list.iptvcat.com/my_list/s/1c01a908496928f8f0cb74f1418522d0.m3u8",
             "country": "europe",
-            "liveliness": "83",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "1796",
+            "mbps": "1810",
             "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2690246",
-            "channel": "HD H2",
-            "link": "https://list.iptvcat.com/my_list/s/49e6359f80ab33b96218012772a3d06d.m3u8",
-            "country": "europe",
-            "liveliness": "63",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2690244",
-            "channel": "HD HISTORY CHANNEL",
-            "link": "https://list.iptvcat.com/my_list/s/8dced49f7f47072f9ec2cea55b8c815d.m3u8",
-            "country": "europe",
-            "liveliness": "65",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
-            "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -18667,7 +18541,7 @@
             "channel": "HD LIFE TIME",
             "link": "https://list.iptvcat.com/my_list/s/fc9b91a77e32427f2fa3c36f5c0efe43.m3u8",
             "country": "europe",
-            "liveliness": "32",
+            "liveliness": "31",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "fhd 2k",
@@ -18751,7 +18625,7 @@
             "channel": "HD NAT GEO WILD",
             "link": "https://list.iptvcat.com/my_list/s/550d7d8a7d1bfc8310965ec272118ad0.m3u8",
             "country": "europe",
-            "liveliness": "53",
+            "liveliness": "51",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "hd",
@@ -19036,20 +18910,6 @@
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2690944",
-            "channel": "HD S-K-Y SPORTS PREMIER LEAGUE",
-            "link": "https://list.iptvcat.com/my_list/s/5a615e9b195cf9677a014d6af04f2cd2.m3u8",
-            "country": "europe",
-            "liveliness": "50",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
             "URI": [
                 "europe__5"
             ]
@@ -19937,23 +19797,23 @@
             ]
         },
         {
-            "id": "2653644",
-            "channel": "HHQ TV",
-            "link": "https://list.iptvcat.com/my_list/s/f7801a8ecc13ef6514e90eb5280deda2.m3u8",
+            "id": "24807",
+            "channel": "QVC",
+            "link": "https://list.iptvcat.com/my_list/s/504442f1e0a2d1311afdcd2a864b3b7f.m3u8",
             "country": "europe",
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "9546",
+            "format": "sd",
+            "mbps": "1853",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2589681",
-            "channel": "HOT HBO HD (Израиль)",
-            "link": "https://list.iptvcat.com/my_list/s/106f20c89e2d718838919eec1f9eb544.m3u8",
+            "id": "2596163",
+            "channel": "Quest Red",
+            "link": "https://list.iptvcat.com/my_list/s/14a5d38ffdf40d9653cc1183c23f99f6.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -19965,9 +19825,9 @@
             ]
         },
         {
-            "id": "2589680",
-            "channel": "HOT Zone HD (Израиль)",
-            "link": "https://list.iptvcat.com/my_list/s/af91b218f252f5502075d7a68896e350.m3u8",
+            "id": "2596167",
+            "channel": "RTE 2",
+            "link": "https://list.iptvcat.com/my_list/s/e7aad7d4b232e461f272cda827fba279.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -19979,9 +19839,9 @@
             ]
         },
         {
-            "id": "2591974",
-            "channel": "HRT 1 HR",
-            "link": "https://list.iptvcat.com/my_list/s/7eda2b6e72747d73a072e48b40b04f75.m3u8",
+            "id": "2596168",
+            "channel": "RTE Jr",
+            "link": "https://list.iptvcat.com/my_list/s/15ee4dc554a093fc1fb193fb2df2bec8.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -19993,9 +19853,9 @@
             ]
         },
         {
-            "id": "2591978",
-            "channel": "HRT 2 HR",
-            "link": "https://list.iptvcat.com/my_list/s/c28aeffa251c0546bcd2ff1d214f309a.m3u8",
+            "id": "2596169",
+            "channel": "RTE News",
+            "link": "https://list.iptvcat.com/my_list/s/19811d4fda424b7687358cbf541e1af1.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -22737,71 +22597,71 @@
             ]
         },
         {
-            "id": "39898",
-            "channel": "Кинозал (VHS 90s)",
-            "link": "https://list.iptvcat.com/my_list/s/8b4f6d9757d92f112a247cc363348950.m3u8",
+            "id": "2589704",
+            "channel": "TV 1 (Литва)",
+            "link": "https://list.iptvcat.com/my_list/s/5738dc493dd0fc7a79119641a0ce37a2.m3u8",
             "country": "europe",
-            "liveliness": "97",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2653179",
+            "channel": "TV 1000 Action",
+            "link": "https://list.iptvcat.com/my_list/s/cfa166859351618d29eba0439258b896.m3u8",
+            "country": "europe",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "5991",
+            "mbps": "5020",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2589777",
-            "channel": "Кинокомедия HD",
-            "link": "https://list.iptvcat.com/my_list/s/0b670bf92aeb329e9a7215cf1d2c9659.m3u8",
+            "id": "2653180",
+            "channel": "TV 1000 Action",
+            "link": "https://list.iptvcat.com/my_list/s/08a3d839d2047c2ced4f4cf11203be32.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "71",
             "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "lastChecked": "2023-04-03T00:00:00Z",
+            "format": "sd",
+            "mbps": "1237",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2589782",
-            "channel": "Киномикс HD",
-            "link": "https://list.iptvcat.com/my_list/s/8efca031d5b0d74305e7eb83219c3f2e.m3u8",
+            "id": "2653181",
+            "channel": "TV 1000 Action HD",
+            "link": "https://list.iptvcat.com/my_list/s/7803f06392fce03c9ee824a240e49450.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "7004",
+            "mbps": "11126",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2589812",
-            "channel": "Кинопоказ HD",
-            "link": "https://list.iptvcat.com/my_list/s/8f9e255841debf365920f7b166bfd2a2.m3u8",
+            "id": "2653182",
+            "channel": "TV 1000 Русское кино",
+            "link": "https://list.iptvcat.com/my_list/s/c0a96d2d879b4f23b62ec249d9609544.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2589776",
-            "channel": "Кинопремьера HD",
-            "link": "https://list.iptvcat.com/my_list/s/aedf6ffa23ed03b6a68388e7d719c779.m3u8",
-            "country": "europe",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "europe__5"
             ]
@@ -24137,73 +23997,73 @@
             ]
         },
         {
-            "id": "2653514",
-            "channel": "Рыбалка и охота",
-            "link": "https://list.iptvcat.com/my_list/s/184f78a09feb156afa556b1546194331.m3u8",
+            "id": "2653336",
+            "channel": "О!",
+            "link": "https://list.iptvcat.com/my_list/s/019cb4a1e901170b4fe73bea69f891e3.m3u8",
             "country": "europe",
-            "liveliness": "72",
+            "liveliness": "70",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "1237",
+            "mbps": "989",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
-            "id": "2659199",
-            "channel": "Рыбалка и охота",
-            "link": "https://list.iptvcat.com/my_list/s/01bb9260c4a0558d06bab6a3c7a2df13.m3u8",
+            "id": "2589660",
+            "channel": "ОЦЕ HD",
+            "link": "https://list.iptvcat.com/my_list/s/ab0d8f16f15b54d50f55297c97710d69.m3u8",
             "country": "europe",
-            "liveliness": "73",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "1237",
-            "URI": [
-                "europe"
-            ]
-        },
-        {
-            "id": "2653876",
-            "channel": "СГДФ 24",
-            "link": "https://list.iptvcat.com/my_list/s/bbbeb2ad4d1a1d20a9d4f95aa321c365.m3u8",
-            "country": "europe",
-            "liveliness": "88",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "7986",
+            "mbps": "7004",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
-            "id": "2653878",
-            "channel": "СИ ТВ (Новый Уренгой)",
-            "link": "https://list.iptvcat.com/my_list/s/b0079ec416a5c42f2f7e87283574a503.m3u8",
+            "id": "2653784",
+            "channel": "Обком ТВ",
+            "link": "https://list.iptvcat.com/my_list/s/b2549206c6ee7a3a5ccbfc315d69639e.m3u8",
             "country": "europe",
-            "liveliness": "89",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "3262",
+            "mbps": "2334",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
-            "id": "2653880",
-            "channel": "СИ ТВ HD",
-            "link": "https://list.iptvcat.com/my_list/s/71c83d5f7ef836c765f659cea09a40b4.m3u8",
+            "id": "2653340",
+            "channel": "Оплот",
+            "link": "https://list.iptvcat.com/my_list/s/219ea6c74e2c28678556377e61965a8e.m3u8",
             "country": "europe",
-            "liveliness": "86",
+            "liveliness": "92",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "6241",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2653786",
+            "channel": "Осетия-Ирыстон",
+            "link": "https://list.iptvcat.com/my_list/s/aa715c7250568bcce4fb2694cccbb887.m3u8",
+            "country": "europe",
+            "liveliness": "97",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "11126",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -25537,37 +25397,9 @@
             ]
         },
         {
-            "id": "39388",
-            "channel": "Вместе РФ",
-            "link": "https://list.iptvcat.com/my_list/s/33b6f475d12ff3afacc805195275f74c.m3u8",
-            "country": "europe",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
-            "URI": [
-                "europe"
-            ]
-        },
-        {
-            "id": "2653706",
-            "channel": "Волга",
-            "link": "https://list.iptvcat.com/my_list/s/870c901cd3afacc2247062f8ff6dfd60.m3u8",
-            "country": "europe",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3262",
-            "URI": [
-                "europe"
-            ]
-        },
-        {
-            "id": "2653707",
-            "channel": "Волга (HD)",
-            "link": "https://list.iptvcat.com/my_list/s/e189efe9641ed59aa7e4c19b80219cad.m3u8",
+            "id": "2589765",
+            "channel": "Фауна",
+            "link": "https://list.iptvcat.com/my_list/s/b6eff225078987d8f202adb2d6a402c8.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -25579,23 +25411,51 @@
             ]
         },
         {
-            "id": "2653717",
-            "channel": "Волга 24",
-            "link": "https://list.iptvcat.com/my_list/s/c274a1ea58c5379928380ef431f88090.m3u8",
+            "id": "2653611",
+            "channel": "Хабар",
+            "link": "https://list.iptvcat.com/my_list/s/058f20d0dd082700c9e615e6bf581962.m3u8",
             "country": "europe",
-            "liveliness": "99",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "9905",
+            "mbps": "5020",
             "URI": [
                 "europe"
             ]
         },
         {
-            "id": "2589644",
-            "channel": "Вопросы и ответы",
-            "link": "https://list.iptvcat.com/my_list/s/b57d99544ce96c4d965bd2939dca261c.m3u8",
+            "id": "2653612",
+            "channel": "Хабар 24 HD",
+            "link": "https://list.iptvcat.com/my_list/s/efadbfbb27b73f6de3b40fbe58a5031c.m3u8",
+            "country": "europe",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "13873",
+            "URI": [
+                "europe"
+            ]
+        },
+        {
+            "id": "2589836",
+            "channel": "Хит HD",
+            "link": "https://list.iptvcat.com/my_list/s/8873732e238b06e00bad8d84714d9546.m3u8",
+            "country": "europe",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "europe"
+            ]
+        },
+        {
+            "id": "2653991",
+            "channel": "Центр Красноярск HD",
+            "link": "https://list.iptvcat.com/my_list/s/25d6a593339db0353bfd3b5f97153de0.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -26937,23 +26797,23 @@
             ]
         },
         {
-            "id": "2346686",
-            "channel": "Amedia Premium",
-            "link": "https://list.iptvcat.com/my_list/s/29e55dfc14f75b1e468a7ea21130b97f.m3u8",
+            "id": "39898",
+            "channel": "Кинозал (VHS 90s)",
+            "link": "https://list.iptvcat.com/my_list/s/8b4f6d9757d92f112a247cc363348950.m3u8",
             "country": "europe",
-            "liveliness": "99",
+            "liveliness": "97",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "3188",
+            "mbps": "5991",
             "URI": [
                 "europe"
             ]
         },
         {
-            "id": "2589796",
-            "channel": "Amedia Premium HD",
-            "link": "https://list.iptvcat.com/my_list/s/556a0bfc347e17608afc0730139ba979.m3u8",
+            "id": "2589777",
+            "channel": "Кинокомедия HD",
+            "link": "https://list.iptvcat.com/my_list/s/0b670bf92aeb329e9a7215cf1d2c9659.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -26965,23 +26825,9 @@
             ]
         },
         {
-            "id": "2653135",
-            "channel": "Amedia Premium HD",
-            "link": "https://list.iptvcat.com/my_list/s/4797a1621a19e4dc5f66969198a40473.m3u8",
-            "country": "europe",
-            "liveliness": "73",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "europe"
-            ]
-        },
-        {
-            "id": "2589893",
-            "channel": "Ani",
-            "link": "https://list.iptvcat.com/my_list/s/b55f719704f7c9bb1af75821c4d22a3f.m3u8",
+            "id": "2589782",
+            "channel": "Киномикс HD",
+            "link": "https://list.iptvcat.com/my_list/s/8efca031d5b0d74305e7eb83219c3f2e.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -26993,9 +26839,23 @@
             ]
         },
         {
-            "id": "2589720",
-            "channel": "Animal Planet HD",
-            "link": "https://list.iptvcat.com/my_list/s/660ef88ae3bf1a27968d698cbcff5442.m3u8",
+            "id": "2589812",
+            "channel": "Кинопоказ HD",
+            "link": "https://list.iptvcat.com/my_list/s/8f9e255841debf365920f7b166bfd2a2.m3u8",
+            "country": "europe",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "europe"
+            ]
+        },
+        {
+            "id": "2589776",
+            "channel": "Кинопремьера HD",
+            "link": "https://list.iptvcat.com/my_list/s/aedf6ffa23ed03b6a68388e7d719c779.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -28337,23 +28197,23 @@
             ]
         },
         {
-            "id": "2683405",
-            "channel": "Beano TV (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/2ad98aacf3142b6b416caadec1ecd9fb.m3u8",
+            "id": "2653644",
+            "channel": "HHQ TV",
+            "link": "https://list.iptvcat.com/my_list/s/f7801a8ecc13ef6514e90eb5280deda2.m3u8",
             "country": "europe",
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5991, ...",
+            "format": "fhd 2k",
+            "mbps": "9546",
             "URI": [
                 "europe"
             ]
         },
         {
-            "id": "2596075",
-            "channel": "Blaze UK",
-            "link": "https://list.iptvcat.com/my_list/s/4892501746eaddf8e957ff01e58340ac.m3u8",
+            "id": "2589681",
+            "channel": "HOT HBO HD (Израиль)",
+            "link": "https://list.iptvcat.com/my_list/s/106f20c89e2d718838919eec1f9eb544.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -28365,9 +28225,9 @@
             ]
         },
         {
-            "id": "2596076",
-            "channel": "Bloomberg UK",
-            "link": "https://list.iptvcat.com/my_list/s/219b2658d6abf7c4a8e80493097f0706.m3u8",
+            "id": "2589680",
+            "channel": "HOT Zone HD (Израиль)",
+            "link": "https://list.iptvcat.com/my_list/s/af91b218f252f5502075d7a68896e350.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -28379,9 +28239,23 @@
             ]
         },
         {
-            "id": "2596077",
-            "channel": "Boomerang UK",
-            "link": "https://list.iptvcat.com/my_list/s/18f1251906c9357a80d50896ba7c658d.m3u8",
+            "id": "2591974",
+            "channel": "HRT 1 HR",
+            "link": "https://list.iptvcat.com/my_list/s/7eda2b6e72747d73a072e48b40b04f75.m3u8",
+            "country": "europe",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
+            "URI": [
+                "europe"
+            ]
+        },
+        {
+            "id": "2591978",
+            "channel": "HRT 2 HR",
+            "link": "https://list.iptvcat.com/my_list/s/c28aeffa251c0546bcd2ff1d214f309a.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
@@ -29307,7 +29181,7 @@
             "channel": "HD AL JAZEERA NEWS",
             "link": "https://list.iptvcat.com/my_list/s/9e0527e37fc9768201b2d32e392320be.m3u8",
             "country": "europe",
-            "liveliness": "59",
+            "liveliness": "56",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "fhd 2k",
@@ -29737,57 +29611,57 @@
             ]
         },
         {
-            "id": "2455341",
-            "channel": "TV Em (486p)",
-            "link": "https://list.iptvcat.com/my_list/s/183379fc7c35e04100ea7cedb81f7c64.m3u8",
+            "id": "2690082",
+            "channel": "HD GOLD",
+            "link": "https://list.iptvcat.com/my_list/s/774517701524a4e9cd6fef73d44e7f76.m3u8",
             "country": "europe",
-            "liveliness": "99",
+            "liveliness": "83",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "1460",
+            "mbps": "1509",
             "URI": [
                 "europe"
             ]
         },
         {
-            "id": "2266872",
-            "channel": "TV100",
-            "link": "https://list.iptvcat.com/my_list/s/0d3a4563388c09a3fdb8a6476838e298.m3u8",
+            "id": "2690222",
+            "channel": "HD GOOD FOOD",
+            "link": "https://list.iptvcat.com/my_list/s/82dc466ee70fbff0d13ba0d53208e67a.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "83",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
+            "format": "sd",
+            "mbps": "1796",
             "URI": [
                 "europe"
             ]
         },
         {
-            "id": "679126",
-            "channel": "TV4",
-            "link": "https://list.iptvcat.com/my_list/s/ff1b7a757fd6b4c14945aa1b190bf923.m3u8",
+            "id": "2690246",
+            "channel": "HD H2",
+            "link": "https://list.iptvcat.com/my_list/s/49e6359f80ab33b96218012772a3d06d.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "63",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3188",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "europe"
             ]
         },
         {
-            "id": "2021685",
-            "channel": "TV4 FHD",
-            "link": "https://list.iptvcat.com/my_list/s/ea141df3be6f1df4dc1f25af154b8fae.m3u8",
+            "id": "2690244",
+            "channel": "HD HISTORY CHANNEL",
+            "link": "https://list.iptvcat.com/my_list/s/8dced49f7f47072f9ec2cea55b8c815d.m3u8",
             "country": "europe",
-            "liveliness": "98",
+            "liveliness": "65",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020, ...",
+            "format": "fhd 2k",
+            "mbps": "8370",
             "URI": [
                 "europe"
             ]
@@ -31137,59 +31011,59 @@
             ]
         },
         {
-            "id": "2022078",
-            "channel": "MAGIC TV",
-            "link": "https://list.iptvcat.com/my_list/s/a098bde78f89807a8e42efef80811b02.m3u8",
+            "id": "2683405",
+            "channel": "Beano TV (720p)",
+            "link": "https://list.iptvcat.com/my_list/s/2ad98aacf3142b6b416caadec1ecd9fb.m3u8",
             "country": "europe",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "1357",
+            "format": "hd",
+            "mbps": "5991, ...",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
-            "id": "2022250",
-            "channel": "MBC 2, MBC Masr 2",
-            "link": "https://list.iptvcat.com/my_list/s/83decbfb9496eb9ed43dd17370b041c1.m3u8",
+            "id": "2596075",
+            "channel": "Blaze UK",
+            "link": "https://list.iptvcat.com/my_list/s/4892501746eaddf8e957ff01e58340ac.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
-            "id": "2022252",
-            "channel": "MBC 3",
-            "link": "https://list.iptvcat.com/my_list/s/12c6286c7940929cf05df2bfbd813ad8.m3u8",
+            "id": "2596076",
+            "channel": "Bloomberg UK",
+            "link": "https://list.iptvcat.com/my_list/s/219b2658d6abf7c4a8e80493097f0706.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
-            "id": "2022256",
-            "channel": "MBC 5",
-            "link": "https://list.iptvcat.com/my_list/s/2fe68b2d04a37c59dc1384ca082b2339.m3u8",
+            "id": "2596077",
+            "channel": "Boomerang UK",
+            "link": "https://list.iptvcat.com/my_list/s/18f1251906c9357a80d50896ba7c658d.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -32537,43 +32411,57 @@
             ]
         },
         {
-            "id": "2691002",
-            "channel": "SD M+ LIGA DE CAMPEONES 4",
-            "link": "https://list.iptvcat.com/my_list/s/286c17c4ad618533da2d3539d944e515.m3u8",
+            "id": "2455341",
+            "channel": "TV Em (486p)",
+            "link": "https://list.iptvcat.com/my_list/s/183379fc7c35e04100ea7cedb81f7c64.m3u8",
             "country": "europe",
-            "liveliness": "93",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "3262",
+            "mbps": "1460",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2691008",
-            "channel": "SD M+ LIGA DE CAMPEONES 5",
-            "link": "https://list.iptvcat.com/my_list/s/d53da208e48d93ccf7aa763b24040c6c.m3u8",
+            "id": "2266872",
+            "channel": "TV100",
+            "link": "https://list.iptvcat.com/my_list/s/0d3a4563388c09a3fdb8a6476838e298.m3u8",
             "country": "europe",
-            "liveliness": "93",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "1357",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2691015",
-            "channel": "SD M+ LIGA DE CAMPEONES 6",
-            "link": "https://list.iptvcat.com/my_list/s/63f1b74a66edfc9a2a14cf97e65a8550.m3u8",
+            "id": "679126",
+            "channel": "TV4",
+            "link": "https://list.iptvcat.com/my_list/s/ff1b7a757fd6b4c14945aa1b190bf923.m3u8",
             "country": "europe",
-            "liveliness": "93",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "1357",
+            "format": "hd",
+            "mbps": "3188",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2021685",
+            "channel": "TV4 FHD",
+            "link": "https://list.iptvcat.com/my_list/s/ea141df3be6f1df4dc1f25af154b8fae.m3u8",
+            "country": "europe",
+            "liveliness": "98",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "5020, ...",
             "URI": [
                 "europe__5"
             ]
@@ -32672,20 +32560,6 @@
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
             "mbps": "3262",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2691272",
-            "channel": "SD M+ SOL MUSICA",
-            "link": "https://list.iptvcat.com/my_list/s/ff3609edfedcc4422bd13cf157c68088.m3u8",
-            "country": "europe",
-            "liveliness": "53",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "2089",
             "URI": [
                 "europe__5"
             ]
@@ -33937,43 +33811,57 @@
             ]
         },
         {
-            "id": "2690451",
-            "channel": "Onda 15 TV",
-            "link": "https://list.iptvcat.com/my_list/s/a265d7ccb2b0fcd5ac8c252db6eaee2a.m3u8",
+            "id": "2596954",
+            "channel": "Teledeporte",
+            "link": "https://list.iptvcat.com/my_list/s/a9f6791eb20efa6fc51c023b14ae3017.m3u8",
             "country": "europe",
-            "liveliness": "64",
-            "status": "online",
-            "lastChecked": "2023-04-03T00:00:00Z",
-            "format": "sd",
-            "mbps": "542",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2689600",
-            "channel": "Onda Cadiz SD",
-            "link": "https://list.iptvcat.com/my_list/s/1b4390c261e814ac39217bae2b483645.m3u8",
-            "country": "europe",
-            "liveliness": "93",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3188",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2690850",
-            "channel": "Onda Digital Perú",
-            "link": "https://list.iptvcat.com/my_list/s/0f6529445b53a191b8ecf673a7a8354d.m3u8",
+            "id": "2688821",
+            "channel": "Teledeporte FHD",
+            "link": "https://list.iptvcat.com/my_list/s/3827316616af7be575befc3f87192f83.m3u8",
             "country": "europe",
-            "liveliness": "96",
+            "liveliness": "83",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
             "mbps": "5020",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2687968",
+            "channel": "Teledeporte SD",
+            "link": "https://list.iptvcat.com/my_list/s/353d167eae4e20894866a4c34065bc2a.m3u8",
+            "country": "europe",
+            "liveliness": "71",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "sd",
+            "mbps": "2334",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2596955",
+            "channel": "Telemadrid",
+            "link": "https://list.iptvcat.com/my_list/s/9b252e8786aa8247950b06b04cd880f7.m3u8",
+            "country": "europe",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
@@ -35477,20 +35365,6 @@
             ]
         },
         {
-            "id": "2691272",
-            "channel": "SD M+ SOL MUSICA",
-            "link": "https://list.iptvcat.com/my_list/s/ff3609edfedcc4422bd13cf157c68088.m3u8",
-            "country": "europe",
-            "liveliness": "53",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "2089",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
             "id": "2690914",
             "channel": "SD M+ TRECE",
             "link": "https://list.iptvcat.com/my_list/s/df9e9c94d15d3b11ac529726e68d6122.m3u8",
@@ -36747,7 +36621,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -36761,7 +36635,7 @@
             "format": "hd",
             "mbps": "5020",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -36775,7 +36649,7 @@
             "format": "sd",
             "mbps": "2334",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -36789,7 +36663,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -37805,7 +37679,7 @@
             "channel": "HD Nick Jr",
             "link": "https://list.iptvcat.com/my_list/s/4c36d037378c47b262ad650fd23d9613.m3u8",
             "country": "europe",
-            "liveliness": "42",
+            "liveliness": "40",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "sd",
@@ -38147,7 +38021,7 @@
             "format": "hd",
             "mbps": "6241",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -38161,7 +38035,7 @@
             "format": "hd",
             "mbps": "3795",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -38175,7 +38049,7 @@
             "format": "sd",
             "mbps": "790",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -38189,7 +38063,7 @@
             "format": "sd",
             "mbps": "1810",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -42347,7 +42221,7 @@
             "format": "sd",
             "mbps": "1460",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -42361,7 +42235,7 @@
             "format": "hd",
             "mbps": "5020",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -42375,7 +42249,7 @@
             "format": "hd",
             "mbps": "3188",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -42389,7 +42263,7 @@
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -44707,7 +44581,7 @@
             "channel": "HD AL JAZEERA NEWS",
             "link": "https://list.iptvcat.com/my_list/s/9e0527e37fc9768201b2d32e392320be.m3u8",
             "country": "europe",
-            "liveliness": "59",
+            "liveliness": "56",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "fhd 2k",
@@ -45147,7 +45021,7 @@
             "format": "sd",
             "mbps": "1509",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -45161,7 +45035,7 @@
             "format": "sd",
             "mbps": "1796",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -45175,7 +45049,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -45189,7 +45063,7 @@
             "format": "fhd 2k",
             "mbps": "8370",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -45267,7 +45141,7 @@
             "channel": "HD LIFE TIME",
             "link": "https://list.iptvcat.com/my_list/s/fc9b91a77e32427f2fa3c36f5c0efe43.m3u8",
             "country": "europe",
-            "liveliness": "32",
+            "liveliness": "31",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "fhd 2k",
@@ -45351,7 +45225,7 @@
             "channel": "HD NAT GEO WILD",
             "link": "https://list.iptvcat.com/my_list/s/550d7d8a7d1bfc8310965ec272118ad0.m3u8",
             "country": "europe",
-            "liveliness": "53",
+            "liveliness": "51",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "hd",
@@ -45636,20 +45510,6 @@
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2690944",
-            "channel": "HD S-K-Y SPORTS PREMIER LEAGUE",
-            "link": "https://list.iptvcat.com/my_list/s/5a615e9b195cf9677a014d6af04f2cd2.m3u8",
-            "country": "europe",
-            "liveliness": "50",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
             "URI": [
                 "europe__5"
             ]
@@ -47947,7 +47807,7 @@
             "format": "hd",
             "mbps": "3188",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -47961,7 +47821,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -47975,7 +47835,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -47989,7 +47849,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -48003,7 +47863,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -49347,7 +49207,7 @@
             "format": "fhd 2k",
             "mbps": "9546",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -49361,7 +49221,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -49375,7 +49235,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -49389,7 +49249,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -49403,7 +49263,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -53547,7 +53407,7 @@
             "format": "fhd 2k",
             "mbps": "11126",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -53561,7 +53421,7 @@
             "format": "sd",
             "mbps": "3262",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -53575,7 +53435,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -53589,7 +53449,7 @@
             "format": "hd",
             "mbps": "9905",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -53603,7 +53463,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -54947,7 +54807,7 @@
             "format": "hd",
             "mbps": "5991",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -54961,7 +54821,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -54975,7 +54835,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -54989,7 +54849,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -55003,7 +54863,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -57747,7 +57607,7 @@
             "format": "sd",
             "mbps": "1237",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -57761,7 +57621,7 @@
             "format": "sd",
             "mbps": "1237",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -57775,7 +57635,7 @@
             "format": "fhd 2k",
             "mbps": "7986",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -57789,7 +57649,7 @@
             "format": "sd",
             "mbps": "3262",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -57803,7 +57663,7 @@
             "format": "fhd 2k",
             "mbps": "11126",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -59147,7 +59007,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -59161,7 +59021,7 @@
             "format": "hd",
             "mbps": "5020",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -59175,7 +59035,7 @@
             "format": "fhd 2k",
             "mbps": "13873",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -59189,7 +59049,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -59203,7 +59063,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -59557,20 +59417,6 @@
             ]
         },
         {
-            "id": "2693648",
-            "channel": "HD FILM HITS",
-            "link": "https://list.iptvcat.com/my_list/s/7c5fda3900258b4adee1983ad796379d.m3u8",
-            "country": "europe",
-            "liveliness": "15",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "hd",
-            "mbps": "3188",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
             "id": "2693642",
             "channel": "HD KLAN PLUS",
             "link": "https://list.iptvcat.com/my_list/s/a0b9f37a0d2d934b6a9f211ae9d9ccfe.m3u8",
@@ -59636,20 +59482,6 @@
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2693659",
-            "channel": "HD Tring Fantasy",
-            "link": "https://list.iptvcat.com/my_list/s/30ba5592434d5eb29800bb4ceebaca52.m3u8",
-            "country": "europe",
-            "liveliness": "13",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
             "URI": [
                 "europe__5"
             ]
@@ -60873,45 +60705,31 @@
             ]
         },
         {
-            "id": "2691203",
-            "channel": "M+ LIGA DE CAMPEONES HD",
-            "link": "https://list.iptvcat.com/my_list/s/b016b4094aa68b28a423f346c8ae578a.m3u8",
+            "id": "2472346",
+            "channel": "VRT Radio 1",
+            "link": "https://list.iptvcat.com/my_list/s/0c209a933267a2fded8774b29ce2013c.m3u8",
             "country": "europe",
-            "liveliness": "93",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
-            "URI": [
-                "europe"
-            ]
-        },
-        {
-            "id": "2691202",
-            "channel": "M+ LIGA DE CAMPEONES SD",
-            "link": "https://list.iptvcat.com/my_list/s/28e9994f08376500a8c468c78262e31b.m3u8",
-            "country": "europe",
-            "liveliness": "93",
+            "liveliness": "97",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "3262",
+            "mbps": "652",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
-            "id": "2688792",
-            "channel": "M. DAZN F1 FHD",
-            "link": "https://list.iptvcat.com/my_list/s/c4273570d950d210533b9cbe0aac27d7.m3u8",
+            "id": "2472339",
+            "channel": "VRT Radio 2",
+            "link": "https://list.iptvcat.com/my_list/s/a03dc89c41efd011f91d8d373f6fd258.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "97",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13873",
+            "format": "sd",
+            "mbps": "652",
             "URI": [
-                "europe"
+                "europe__5"
             ]
         },
         {
@@ -62273,45 +62091,45 @@
             ]
         },
         {
-            "id": "2690672",
-            "channel": "HD MTV TEEN MOM",
-            "link": "https://list.iptvcat.com/my_list/s/567979273370d7955ad80275c52ebc7d.m3u8",
+            "id": "2690451",
+            "channel": "Onda 15 TV",
+            "link": "https://list.iptvcat.com/my_list/s/a265d7ccb2b0fcd5ac8c252db6eaee2a.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "64",
             "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3799",
+            "lastChecked": "2023-04-03T00:00:00Z",
+            "format": "sd",
+            "mbps": "542",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
-            "id": "2690693",
-            "channel": "HD MUTANTE X",
-            "link": "https://list.iptvcat.com/my_list/s/840e5328cab8505cbb34a29327fa4e30.m3u8",
+            "id": "2689600",
+            "channel": "Onda Cadiz SD",
+            "link": "https://list.iptvcat.com/my_list/s/1b4390c261e814ac39217bae2b483645.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "93",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "3799",
+            "mbps": "3188",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
-            "id": "2691212",
-            "channel": "HD NAT GEO",
-            "link": "https://list.iptvcat.com/my_list/s/da0f6ecfc06fb808c19b0635d5f25f1d.m3u8",
+            "id": "2690850",
+            "channel": "Onda Digital Perú",
+            "link": "https://list.iptvcat.com/my_list/s/0f6529445b53a191b8ecf673a7a8354d.m3u8",
             "country": "europe",
-            "liveliness": "81",
+            "liveliness": "96",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
             "mbps": "5020",
             "URI": [
-                "europe__5"
+                "europe"
             ]
         },
         {
@@ -63673,11 +63491,11 @@
             ]
         },
         {
-            "id": "2690826",
-            "channel": "HD COSMOPOLITAN",
-            "link": "https://list.iptvcat.com/my_list/s/557c43724b9952e44cb88d99a49f2867.m3u8",
+            "id": "2691203",
+            "channel": "M+ LIGA DE CAMPEONES HD",
+            "link": "https://list.iptvcat.com/my_list/s/b016b4094aa68b28a423f346c8ae578a.m3u8",
             "country": "europe",
-            "liveliness": "90",
+            "liveliness": "93",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
@@ -63687,29 +63505,29 @@
             ]
         },
         {
-            "id": "2690532",
-            "channel": "HD COSTA DEL SOL TV",
-            "link": "https://list.iptvcat.com/my_list/s/5edf057909f833b8505191cf1238d5d4.m3u8",
+            "id": "2691202",
+            "channel": "M+ LIGA DE CAMPEONES SD",
+            "link": "https://list.iptvcat.com/my_list/s/28e9994f08376500a8c468c78262e31b.m3u8",
             "country": "europe",
             "liveliness": "93",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "1509",
+            "mbps": "3262",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2691215",
-            "channel": "HD CRIMEN+ INVESTIGACION",
-            "link": "https://list.iptvcat.com/my_list/s/4d9179eb4c73d051c26bb2b6a8e4fc02.m3u8",
+            "id": "2688792",
+            "channel": "M. DAZN F1 FHD",
+            "link": "https://list.iptvcat.com/my_list/s/c4273570d950d210533b9cbe0aac27d7.m3u8",
             "country": "europe",
-            "liveliness": "81",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3262",
+            "format": "fhd 2k",
+            "mbps": "13873",
             "URI": [
                 "europe__5"
             ]
@@ -64167,7 +63985,7 @@
             "channel": "HD INERALMERIA TV",
             "link": "https://list.iptvcat.com/my_list/s/0a8beb2ec5570b4d4ed7609576067e68.m3u8",
             "country": "europe",
-            "liveliness": "68",
+            "liveliness": "65",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "fhd 2k",
@@ -65073,43 +64891,43 @@
             ]
         },
         {
-            "id": "2689790",
-            "channel": "CostadelSol TV",
-            "link": "https://list.iptvcat.com/my_list/s/d41200aa87e5fd717a20c353d60d7365.m3u8",
-            "country": "europe",
-            "liveliness": "90",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "1509",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2689234",
-            "channel": "Crimen+Investigacion FHD",
-            "link": "https://list.iptvcat.com/my_list/s/1b3db09f01fb37093d0b403c0e6d50b7.m3u8",
-            "country": "europe",
-            "liveliness": "93",
-            "status": "online",
-            "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2688144",
-            "channel": "Crimen+Investigacion SD",
-            "link": "https://list.iptvcat.com/my_list/s/32679f9ebeff087c716427aa0ad41644.m3u8",
+            "id": "2690672",
+            "channel": "HD MTV TEEN MOM",
+            "link": "https://list.iptvcat.com/my_list/s/567979273370d7955ad80275c52ebc7d.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
+            "format": "hd",
+            "mbps": "3799",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2690693",
+            "channel": "HD MUTANTE X",
+            "link": "https://list.iptvcat.com/my_list/s/840e5328cab8505cbb34a29327fa4e30.m3u8",
+            "country": "europe",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "3799",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2691212",
+            "channel": "HD NAT GEO",
+            "link": "https://list.iptvcat.com/my_list/s/da0f6ecfc06fb808c19b0635d5f25f1d.m3u8",
+            "country": "europe",
+            "liveliness": "81",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "europe__5"
             ]
@@ -66473,43 +66291,43 @@
             ]
         },
         {
-            "id": "2690858",
-            "channel": "4K XTRM",
-            "link": "https://list.iptvcat.com/my_list/s/e817eb21c1d36ae819b42928bedf67ae.m3u8",
+            "id": "2690826",
+            "channel": "HD COSMOPOLITAN",
+            "link": "https://list.iptvcat.com/my_list/s/557c43724b9952e44cb88d99a49f2867.m3u8",
             "country": "europe",
             "liveliness": "90",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2670716",
-            "channel": "7 Noticias (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/2a548036a1280b413908dafb5a4b3fad.m3u8",
+            "id": "2690532",
+            "channel": "HD COSTA DEL SOL TV",
+            "link": "https://list.iptvcat.com/my_list/s/5edf057909f833b8505191cf1238d5d4.m3u8",
             "country": "europe",
-            "liveliness": "90",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "hd",
-            "mbps": "11126, ...",
+            "liveliness": "93",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "sd",
+            "mbps": "1509",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2266477",
-            "channel": "7 Noticias (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/a578b9ebe33aa0edc3388c2546af316d.m3u8",
+            "id": "2691215",
+            "channel": "HD CRIMEN+ INVESTIGACION",
+            "link": "https://list.iptvcat.com/my_list/s/4d9179eb4c73d051c26bb2b6a8e4fc02.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "81",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "7004, ...",
+            "format": "sd",
+            "mbps": "3262",
             "URI": [
                 "europe__5"
             ]
@@ -67873,29 +67691,43 @@
             ]
         },
         {
-            "id": "2690798",
-            "channel": "4K AMC BREAK",
-            "link": "https://list.iptvcat.com/my_list/s/83992d4123ac4135ec9f9a26a2007e64.m3u8",
+            "id": "2689790",
+            "channel": "CostadelSol TV",
+            "link": "https://list.iptvcat.com/my_list/s/d41200aa87e5fd717a20c353d60d7365.m3u8",
             "country": "europe",
-            "liveliness": "87",
+            "liveliness": "90",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
+            "format": "sd",
+            "mbps": "1509",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2690387",
-            "channel": "4K ANTENA 3",
-            "link": "https://list.iptvcat.com/my_list/s/07f4f7bd07cddb99c3d5628ab71a2b05.m3u8",
+            "id": "2689234",
+            "channel": "Crimen+Investigacion FHD",
+            "link": "https://list.iptvcat.com/my_list/s/1b3db09f01fb37093d0b403c0e6d50b7.m3u8",
             "country": "europe",
             "liveliness": "93",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "3262",
+            "mbps": "2334",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2688144",
+            "channel": "Crimen+Investigacion SD",
+            "link": "https://list.iptvcat.com/my_list/s/32679f9ebeff087c716427aa0ad41644.m3u8",
+            "country": "europe",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "sd",
+            "mbps": "2334",
             "URI": [
                 "europe__5"
             ]
@@ -69273,29 +69105,29 @@
             ]
         },
         {
-            "id": "9862",
-            "channel": "Наше Крутое HD",
-            "link": "https://list.iptvcat.com/my_list/s/337ebe81c2950477054219a18dd2df93.m3u8",
+            "id": "2690858",
+            "channel": "4K XTRM",
+            "link": "https://list.iptvcat.com/my_list/s/e817eb21c1d36ae819b42928bedf67ae.m3u8",
             "country": "europe",
-            "liveliness": "99",
+            "liveliness": "90",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3188",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2416",
-            "channel": "Небеса ТВ7",
-            "link": "https://list.iptvcat.com/my_list/s/c31874df2ed8a68147a54368811af5e2.m3u8",
+            "id": "2266477",
+            "channel": "7 Noticias (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/a578b9ebe33aa0edc3388c2546af316d.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "3188, ...",
+            "mbps": "7004, ...",
             "URI": [
                 "europe__5"
             ]
@@ -70673,29 +70505,29 @@
             ]
         },
         {
-            "id": "2596484",
-            "channel": "TVR 1",
-            "link": "https://list.iptvcat.com/my_list/s/f96dd39afea487aba003cac7c967b77c.m3u8",
+            "id": "2690798",
+            "channel": "4K AMC BREAK",
+            "link": "https://list.iptvcat.com/my_list/s/83992d4123ac4135ec9f9a26a2007e64.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "87",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "7004",
+            "mbps": "11126",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2596485",
-            "channel": "TVR 2",
-            "link": "https://list.iptvcat.com/my_list/s/a9c3de3bfe5b4a867b37b00cf8f649a1.m3u8",
+            "id": "2690387",
+            "channel": "4K ANTENA 3",
+            "link": "https://list.iptvcat.com/my_list/s/07f4f7bd07cddb99c3d5628ab71a2b05.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "93",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "sd",
+            "mbps": "3262",
             "URI": [
                 "europe__5"
             ]
@@ -72073,29 +71905,29 @@
             ]
         },
         {
-            "id": "2674293",
-            "channel": "Atomic Academy TV (480p)",
-            "link": "https://list.iptvcat.com/my_list/s/5e4dc91a7148f2913ada1933adc463b7.m3u8",
+            "id": "9862",
+            "channel": "Наше Крутое HD",
+            "link": "https://list.iptvcat.com/my_list/s/337ebe81c2950477054219a18dd2df93.m3u8",
             "country": "europe",
-            "liveliness": "93",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "1280",
+            "format": "hd",
+            "mbps": "3188",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2660269",
-            "channel": "Atomic TV (360p)",
-            "link": "https://list.iptvcat.com/my_list/s/373c3037fe0411a8bdf53e4fdad0a26d.m3u8",
+            "id": "2416",
+            "channel": "Небеса ТВ7",
+            "link": "https://list.iptvcat.com/my_list/s/c31874df2ed8a68147a54368811af5e2.m3u8",
             "country": "europe",
-            "liveliness": "96",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "899",
+            "format": "hd",
+            "mbps": "3188, ...",
             "URI": [
                 "europe__5"
             ]
@@ -73473,25 +73305,25 @@
             ]
         },
         {
-            "id": "2694568",
-            "channel": "Jim Jam",
-            "link": "https://list.iptvcat.com/my_list/s/f5c2ddd532438e1c70fd2b5e3c406cb9.m3u8",
+            "id": "2596484",
+            "channel": "TVR 1",
+            "link": "https://list.iptvcat.com/my_list/s/f96dd39afea487aba003cac7c967b77c.m3u8",
             "country": "europe",
-            "liveliness": "81",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2677768",
-            "channel": "Lolly Kids",
-            "link": "https://list.iptvcat.com/my_list/s/e263d7cbd6edd2c21d66c1c600698f28.m3u8",
+            "id": "2596485",
+            "channel": "TVR 2",
+            "link": "https://list.iptvcat.com/my_list/s/a9c3de3bfe5b4a867b37b00cf8f649a1.m3u8",
             "country": "europe",
-            "liveliness": "88",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
@@ -74873,29 +74705,29 @@
             ]
         },
         {
-            "id": "2189",
-            "channel": "Telewizja Kujawy",
-            "link": "https://list.iptvcat.com/my_list/s/815095daced18cf44e24d5e0aaf00c1a.m3u8",
+            "id": "2674293",
+            "channel": "Atomic Academy TV (480p)",
+            "link": "https://list.iptvcat.com/my_list/s/5e4dc91a7148f2913ada1933adc463b7.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "93",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "1706",
+            "mbps": "1280",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2193",
-            "channel": "Telewizja Toruń",
-            "link": "https://list.iptvcat.com/my_list/s/e5dfb61b5ef5dcadedea179356ec3904.m3u8",
+            "id": "2660269",
+            "channel": "Atomic TV (360p)",
+            "link": "https://list.iptvcat.com/my_list/s/373c3037fe0411a8bdf53e4fdad0a26d.m3u8",
             "country": "europe",
-            "liveliness": "99",
+            "liveliness": "96",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "7986, ...",
+            "format": "sd",
+            "mbps": "899",
             "URI": [
                 "europe__5"
             ]
@@ -76273,25 +76105,25 @@
             ]
         },
         {
-            "id": "2592563",
-            "channel": "Discovery FI",
-            "link": "https://list.iptvcat.com/my_list/s/5c865225d6c16ac605fc1c1c931814eb.m3u8",
+            "id": "2694568",
+            "channel": "Jim Jam",
+            "link": "https://list.iptvcat.com/my_list/s/f5c2ddd532438e1c70fd2b5e3c406cb9.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "81",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "sd",
+            "mbps": "2334",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2592566",
-            "channel": "Discovery NO",
-            "link": "https://list.iptvcat.com/my_list/s/b4635bb5d30a675d9a1cebea7ece903c.m3u8",
+            "id": "2677768",
+            "channel": "Lolly Kids",
+            "link": "https://list.iptvcat.com/my_list/s/e263d7cbd6edd2c21d66c1c600698f28.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "88",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
@@ -77673,29 +77505,29 @@
             ]
         },
         {
-            "id": "2691330",
-            "channel": "HD SBS 6",
-            "link": "https://list.iptvcat.com/my_list/s/90140d0f9b2453e0d2c16c1da5503ebd.m3u8",
+            "id": "2189",
+            "channel": "Telewizja Kujawy",
+            "link": "https://list.iptvcat.com/my_list/s/815095daced18cf44e24d5e0aaf00c1a.m3u8",
             "country": "europe",
-            "liveliness": "90",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "sd",
+            "mbps": "1706",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2691336",
-            "channel": "HD SBS9",
-            "link": "https://list.iptvcat.com/my_list/s/515d0df5d2d44fd1b0074c06b53755fe.m3u8",
+            "id": "2193",
+            "channel": "Telewizja Toruń",
+            "link": "https://list.iptvcat.com/my_list/s/e5dfb61b5ef5dcadedea179356ec3904.m3u8",
             "country": "europe",
-            "liveliness": "93",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "3188",
+            "mbps": "7986, ...",
             "URI": [
                 "europe__5"
             ]
@@ -79073,29 +78905,29 @@
             ]
         },
         {
-            "id": "2473158",
-            "channel": "Telefoggia (480p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/b5ddbea457e6859ae7c2e253e96215ce.m3u8",
+            "id": "2592563",
+            "channel": "Discovery FI",
+            "link": "https://list.iptvcat.com/my_list/s/5c865225d6c16ac605fc1c1c931814eb.m3u8",
             "country": "europe",
-            "liveliness": "99",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "2308",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2473172",
-            "channel": "Telemolise (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/8137e34e159a96f228349117bd1732a6.m3u8",
+            "id": "2592566",
+            "channel": "Discovery NO",
+            "link": "https://list.iptvcat.com/my_list/s/b4635bb5d30a675d9a1cebea7ece903c.m3u8",
             "country": "europe",
-            "liveliness": "99",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "11126",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
@@ -80267,7 +80099,7 @@
             "channel": "HD NPO 1",
             "link": "https://list.iptvcat.com/my_list/s/4f5e5448f57c04e3c4282f7229cfdc73.m3u8",
             "country": "europe",
-            "liveliness": "59",
+            "liveliness": "56",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "fhd 2k",
@@ -80473,29 +80305,29 @@
             ]
         },
         {
-            "id": "2689458",
-            "channel": "CI Crime Investigation HD",
-            "link": "https://list.iptvcat.com/my_list/s/19e4018c8e428c5001d575c197f73825.m3u8",
+            "id": "2691330",
+            "channel": "HD SBS 6",
+            "link": "https://list.iptvcat.com/my_list/s/90140d0f9b2453e0d2c16c1da5503ebd.m3u8",
             "country": "europe",
-            "liveliness": "35",
+            "liveliness": "90",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3188",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "1579",
-            "channel": "Canale 2 Altamura",
-            "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
+            "id": "2691336",
+            "channel": "HD SBS9",
+            "link": "https://list.iptvcat.com/my_list/s/515d0df5d2d44fd1b0074c06b53755fe.m3u8",
             "country": "europe",
-            "liveliness": "99",
+            "liveliness": "93",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3262",
+            "format": "hd",
+            "mbps": "3188",
             "URI": [
                 "europe__5"
             ]
@@ -81873,29 +81705,29 @@
             ]
         },
         {
-            "id": "2659783",
-            "channel": "DIKTYO TV",
-            "link": "https://list.iptvcat.com/my_list/s/0aa295e21bf1874c3d850180b244fe31.m3u8",
+            "id": "2473158",
+            "channel": "Telefoggia (480p) [Not 24/7]",
+            "link": "https://list.iptvcat.com/my_list/s/b5ddbea457e6859ae7c2e253e96215ce.m3u8",
             "country": "europe",
-            "liveliness": "98",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "sd",
-            "mbps": "1509",
+            "mbps": "2308",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2659786",
-            "channel": "EKKLHSIA TV HD",
-            "link": "https://list.iptvcat.com/my_list/s/780fef0057ced2058e19d4d359d63a7e.m3u8",
+            "id": "2473172",
+            "channel": "Telemolise (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/8137e34e159a96f228349117bd1732a6.m3u8",
             "country": "europe",
-            "liveliness": "97",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
+            "format": "fhd 2k",
+            "mbps": "11126",
             "URI": [
                 "europe__5"
             ]
@@ -83273,29 +83105,29 @@
             ]
         },
         {
-            "id": "883",
-            "channel": "Saarland 1, Saarland Fernsehen 1",
-            "link": "https://list.iptvcat.com/my_list/s/773e8684d732923097c79de83d786a33.m3u8",
+            "id": "2689458",
+            "channel": "CI Crime Investigation HD",
+            "link": "https://list.iptvcat.com/my_list/s/19e4018c8e428c5001d575c197f73825.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "35",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
+            "format": "hd",
+            "mbps": "3188",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "132870",
-            "channel": "Saarland Fernsehen 1",
-            "link": "https://list.iptvcat.com/my_list/s/4f2ce671383d795d0850e8e33cc3bb0d.m3u8",
+            "id": "1579",
+            "channel": "Canale 2 Altamura",
+            "link": "https://list.iptvcat.com/my_list/s/adb84ed954f0fd92487ff96cccd29de6.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
+            "format": "sd",
+            "mbps": "3262",
             "URI": [
                 "europe__5"
             ]
@@ -84673,29 +84505,29 @@
             ]
         },
         {
-            "id": "2669751",
-            "channel": "Magenta Musik 360 (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/12eb9009c792b9718387d2e36ecbac3f.m3u8",
+            "id": "2659783",
+            "channel": "DIKTYO TV",
+            "link": "https://list.iptvcat.com/my_list/s/0aa295e21bf1874c3d850180b244fe31.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "98",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "7004, ...",
+            "format": "sd",
+            "mbps": "1509",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2669761",
-            "channel": "More Than Sports TV (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/a50f35fa0965566e76c6d3da788d1eaa.m3u8",
+            "id": "2659786",
+            "channel": "EKKLHSIA TV HD",
+            "link": "https://list.iptvcat.com/my_list/s/780fef0057ced2058e19d4d359d63a7e.m3u8",
             "country": "europe",
-            "liveliness": "100",
+            "liveliness": "97",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "sd",
-            "mbps": "3262",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "europe__5"
             ]
@@ -86073,29 +85905,29 @@
             ]
         },
         {
-            "id": "2689668",
-            "channel": "HD KABEL 1 CLASSICS",
-            "link": "https://list.iptvcat.com/my_list/s/a78406a0d0912fed03f286c5f54094eb.m3u8",
+            "id": "883",
+            "channel": "Saarland 1, Saarland Fernsehen 1",
+            "link": "https://list.iptvcat.com/my_list/s/773e8684d732923097c79de83d786a33.m3u8",
             "country": "europe",
-            "liveliness": "90",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "7004",
+            "mbps": "11126",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2689727",
-            "channel": "HD KIKA",
-            "link": "https://list.iptvcat.com/my_list/s/55998b683addf0c3e284c9261d61ee89.m3u8",
+            "id": "132870",
+            "channel": "Saarland Fernsehen 1",
+            "link": "https://list.iptvcat.com/my_list/s/4f2ce671383d795d0850e8e33cc3bb0d.m3u8",
             "country": "europe",
-            "liveliness": "90",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "6241",
+            "format": "fhd 2k",
+            "mbps": "11126",
             "URI": [
                 "europe__5"
             ]
@@ -86735,7 +86567,7 @@
             "channel": "HD SKY SPORT 3",
             "link": "https://list.iptvcat.com/my_list/s/44a09d47d83d201227bd467404d244d6.m3u8",
             "country": "europe",
-            "liveliness": "38",
+            "liveliness": "37",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "fhd 2k",
@@ -87473,29 +87305,29 @@
             ]
         },
         {
-            "id": "2686079",
-            "channel": "SD TRACE URBAN",
-            "link": "https://list.iptvcat.com/my_list/s/d9ad5a544fce6361b39543d46e859f80.m3u8",
+            "id": "2669751",
+            "channel": "Magenta Musik 360 (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/12eb9009c792b9718387d2e36ecbac3f.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "3188",
+            "mbps": "7004, ...",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2666065",
-            "channel": "Sport En France (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/09982bb2ffc5ed02490f6993c3fd01cc.m3u8",
+            "id": "2669761",
+            "channel": "More Than Sports TV (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/a50f35fa0965566e76c6d3da788d1eaa.m3u8",
             "country": "europe",
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "sd",
+            "mbps": "3262",
             "URI": [
                 "europe__5"
             ]
@@ -88873,29 +88705,29 @@
             ]
         },
         {
-            "id": "2685410",
-            "channel": "HD CINE+ PREMIER",
-            "link": "https://list.iptvcat.com/my_list/s/baa16763f18dc248c382d887706dd7d1.m3u8",
+            "id": "2689668",
+            "channel": "HD KABEL 1 CLASSICS",
+            "link": "https://list.iptvcat.com/my_list/s/a78406a0d0912fed03f286c5f54094eb.m3u8",
             "country": "europe",
             "liveliness": "90",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "hd",
-            "mbps": "3188",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2685149",
-            "channel": "HD CNEWS",
-            "link": "https://list.iptvcat.com/my_list/s/79860822abef77e7289dc64f49b4bbd1.m3u8",
+            "id": "2689727",
+            "channel": "HD KIKA",
+            "link": "https://list.iptvcat.com/my_list/s/55998b683addf0c3e284c9261d61ee89.m3u8",
             "country": "europe",
-            "liveliness": "93",
+            "liveliness": "90",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
-            "mbps": "3188",
+            "mbps": "6241",
             "URI": [
                 "europe__5"
             ]
@@ -90273,29 +90105,29 @@
             ]
         },
         {
-            "id": "2685156",
-            "channel": "FHD BFM",
-            "link": "https://list.iptvcat.com/my_list/s/540ccd5d881a2ade5fde23eac1e8b212.m3u8",
+            "id": "2686079",
+            "channel": "SD TRACE URBAN",
+            "link": "https://list.iptvcat.com/my_list/s/d9ad5a544fce6361b39543d46e859f80.m3u8",
             "country": "europe",
-            "liveliness": "90",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13873",
+            "format": "hd",
+            "mbps": "3188",
             "URI": [
                 "europe__5"
             ]
         },
         {
-            "id": "2685158",
-            "channel": "FHD BFM BUSINESS",
-            "link": "https://list.iptvcat.com/my_list/s/0e6118916d11ae30d040c688f7a6f964.m3u8",
+            "id": "2666065",
+            "channel": "Sport En France (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/09982bb2ffc5ed02490f6993c3fd01cc.m3u8",
             "country": "europe",
-            "liveliness": "90",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "11126",
+            "mbps": "7004",
             "URI": [
                 "europe__5"
             ]
@@ -91673,6 +91505,34 @@
             ]
         },
         {
+            "id": "2685410",
+            "channel": "HD CINE+ PREMIER",
+            "link": "https://list.iptvcat.com/my_list/s/baa16763f18dc248c382d887706dd7d1.m3u8",
+            "country": "europe",
+            "liveliness": "90",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "3188",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2685149",
+            "channel": "HD CNEWS",
+            "link": "https://list.iptvcat.com/my_list/s/79860822abef77e7289dc64f49b4bbd1.m3u8",
+            "country": "europe",
+            "liveliness": "93",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "hd",
+            "mbps": "3188",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
             "id": "11",
             "channel": "AlbUK TV",
             "link": "https://list.iptvcat.com/my_list/s/43edb9619aa4cbd34020b6dfaec7fa49.m3u8",
@@ -91757,20 +91617,6 @@
             ]
         },
         {
-            "id": "2693648",
-            "channel": "HD FILM HITS",
-            "link": "https://list.iptvcat.com/my_list/s/7c5fda3900258b4adee1983ad796379d.m3u8",
-            "country": "europe",
-            "liveliness": "15",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "hd",
-            "mbps": "3188",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
             "id": "2693642",
             "channel": "HD KLAN PLUS",
             "link": "https://list.iptvcat.com/my_list/s/a0b9f37a0d2d934b6a9f211ae9d9ccfe.m3u8",
@@ -91836,20 +91682,6 @@
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2693659",
-            "channel": "HD Tring Fantasy",
-            "link": "https://list.iptvcat.com/my_list/s/30ba5592434d5eb29800bb4ceebaca52.m3u8",
-            "country": "europe",
-            "liveliness": "13",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
             "URI": [
                 "europe__5"
             ]
@@ -93791,7 +93623,7 @@
             "channel": "4K FRANCE 5",
             "link": "https://list.iptvcat.com/my_list/s/c5bcb36f2ec2234da8c41b8770727b5a.m3u8",
             "country": "europe",
-            "liveliness": "50",
+            "liveliness": "48",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "hd",
@@ -93987,7 +93819,7 @@
             "channel": "BFM Grand Lille",
             "link": "https://list.iptvcat.com/my_list/s/ab83131b2e561d263f4becba47a936f1.m3u8",
             "country": "europe",
-            "liveliness": "28",
+            "liveliness": "27",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "hd",
@@ -94407,7 +94239,7 @@
             "channel": "FHD AMAZON PRIME VIDEO 1",
             "link": "https://list.iptvcat.com/my_list/s/acf8638e509656d9b0bc64da6886eda6.m3u8",
             "country": "europe",
-            "liveliness": "32",
+            "liveliness": "31",
             "status": "offline",
             "lastChecked": "2023-04-05T00:00:00Z",
             "format": "fhd 2k",
@@ -94468,6 +94300,34 @@
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8378",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2685156",
+            "channel": "FHD BFM",
+            "link": "https://list.iptvcat.com/my_list/s/540ccd5d881a2ade5fde23eac1e8b212.m3u8",
+            "country": "europe",
+            "liveliness": "90",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "13873",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2685158",
+            "channel": "FHD BFM BUSINESS",
+            "link": "https://list.iptvcat.com/my_list/s/0e6118916d11ae30d040c688f7a6f964.m3u8",
+            "country": "europe",
+            "liveliness": "90",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "11126",
             "URI": [
                 "europe__5"
             ]
@@ -94557,20 +94417,6 @@
             ]
         },
         {
-            "id": "2693648",
-            "channel": "HD FILM HITS",
-            "link": "https://list.iptvcat.com/my_list/s/7c5fda3900258b4adee1983ad796379d.m3u8",
-            "country": "europe",
-            "liveliness": "15",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "hd",
-            "mbps": "3188",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
             "id": "2693642",
             "channel": "HD KLAN PLUS",
             "link": "https://list.iptvcat.com/my_list/s/a0b9f37a0d2d934b6a9f211ae9d9ccfe.m3u8",
@@ -94636,20 +94482,6 @@
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
-            "URI": [
-                "europe__5"
-            ]
-        },
-        {
-            "id": "2693659",
-            "channel": "HD Tring Fantasy",
-            "link": "https://list.iptvcat.com/my_list/s/30ba5592434d5eb29800bb4ceebaca52.m3u8",
-            "country": "europe",
-            "liveliness": "13",
-            "status": "offline",
-            "lastChecked": "2023-04-05T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
             "URI": [
                 "europe__5"
             ]
@@ -95868,6 +95700,34 @@
             "lastChecked": "2023-04-02T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2472346",
+            "channel": "VRT Radio 1",
+            "link": "https://list.iptvcat.com/my_list/s/0c209a933267a2fded8774b29ce2013c.m3u8",
+            "country": "europe",
+            "liveliness": "97",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "sd",
+            "mbps": "652",
+            "URI": [
+                "europe__5"
+            ]
+        },
+        {
+            "id": "2472339",
+            "channel": "VRT Radio 2",
+            "link": "https://list.iptvcat.com/my_list/s/a03dc89c41efd011f91d8d373f6fd258.m3u8",
+            "country": "europe",
+            "liveliness": "97",
+            "status": "online",
+            "lastChecked": "2023-04-02T00:00:00Z",
+            "format": "sd",
+            "mbps": "652",
             "URI": [
                 "europe__5"
             ]
